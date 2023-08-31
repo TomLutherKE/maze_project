@@ -95,4 +95,3 @@ int main(void)
 	destroy_game();
 	return (0);
 }
-

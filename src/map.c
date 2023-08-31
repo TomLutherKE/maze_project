@@ -92,4 +92,3 @@ void renderMap(void)
 		}
 	}
 }
-

@@ -109,3 +109,4 @@ void drawPixel(int x, int y, color_t color)
 {
 	colorBuffer[(SCREEN_WIDTH * y) + x] = color;
 }
+
