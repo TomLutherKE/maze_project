@@ -137,3 +137,4 @@ void renderWall(void)
 		}
 	}
 }
+

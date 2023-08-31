@@ -52,3 +52,4 @@ void freeWallTextures(void)
 	for (i = 0; i < NUM_TEXTURES; i++)
 		upng_free(wallTextures[i].upngTexture);
 }
+
