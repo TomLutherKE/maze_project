@@ -156,4 +156,3 @@ void freeWallTextures(void);
 void renderWall(void);
 
 #endif /*HEADER_H*/
-
