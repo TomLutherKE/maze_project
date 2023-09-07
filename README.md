@@ -2,7 +2,7 @@
 
 The Maze Project is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable environment.
 
-The Maze Project was written in C using the SDL2 library. Development was performed using Ubuntu 14.04 LTS 
+The Maze Project was written in C using the SDL2 library. Development was performed using Ubuntu 22.04 LTS 
 
 ### About SDL2 
 
